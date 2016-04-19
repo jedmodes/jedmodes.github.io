@@ -1,2 +1,6 @@
 name: jedmodes
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+  
